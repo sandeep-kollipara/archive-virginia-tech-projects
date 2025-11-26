@@ -1,2 +1,2 @@
-# llm
-My personal project for self-learning during my career break in Spring 24.
+# archive-virginia-tech-projects
+My various project reports submitted for the fulfilment of coursework at M.Eng program at Virginia Tech DC Campus during 2025-25.
